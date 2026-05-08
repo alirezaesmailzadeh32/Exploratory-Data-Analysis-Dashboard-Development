@@ -10,10 +10,7 @@ Worked on a comprehensive :contentReference[oaicite:0]{index=0} final project ba
   - Data Understanding  
   - Data Analysis & Visualization  
 - Developed univariate, bivariate, and multivariate visualizations  
-- Built interactive dashboards using:
-  - :contentReference[oaicite:3]{index=3}  
-  - :contentReference[oaicite:4]{index=4}  
-  - :contentReference[oaicite:5]{index=5}  
+- Built interactive dashboards
 - Analyzed lending behavior, funding trends, borrower profiles, and repayment structures  
 - Documented methodology, workflow, and analytical decisions  
 - Presented insights through structured data storytelling  
