@@ -25,4 +25,4 @@ Worked on a comprehensive :contentReference[oaicite:0]{index=0} final project ba
 - Currency and regional patterns  
 
 ## Tools & Technologies
-Python, Plotly, Plotly Express, Matplotlib, Data Visualization, Exploratory Data Analysis (EDA), Dashboard Development, CRISP-DM, Statistical Analysis
+Python, Plotly, Plotly Express, Matplotlib, Data Visualization, Exploratory Data Analysis (EDA), Dashboard Development.
